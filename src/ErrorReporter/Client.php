@@ -202,7 +202,6 @@ class Client
         $data = array_merge($data, array(
             'server_name' => $this->name,
             'event_id'    => $event_id,
-            'project'     => $this->project,
             'site'        => $this->site,
             'logger'      => $this->logger,
             'tags'        => $this->tags
