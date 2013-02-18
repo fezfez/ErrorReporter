@@ -22,7 +22,7 @@ class ClientFactory
         if(null === self::$_instance) {
             $config      = ConfigFactory::getInstance();
             $sender      = $config->options->sender->type;
-            $senderClass = 'Corp\ErrorReporter\Sender\\' . $sender . 'Sender';
+            $senderClass = 'ErrorReporter\Sender\\' . $sender . 'Sender';
 
             if(empty($sender)) {
                 throw new \Exception('You have to define a sender type');
