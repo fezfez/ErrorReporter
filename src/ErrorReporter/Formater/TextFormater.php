@@ -1,8 +1,8 @@
 <?php
 
-namespace Corp\ErrorReporter\Formater;
+namespace ErrorReporter\Formater;
 
-use Corp\ErrorReporter\Pretty\ArrayPretty;
+use ErrorReporter\Pretty\ArrayPretty;
 
 class TextFormater
 {

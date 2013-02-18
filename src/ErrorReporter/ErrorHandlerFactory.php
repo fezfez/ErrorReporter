@@ -1,6 +1,6 @@
 <?php
 
-namespace Corp\ErrorReporter;
+namespace ErrorReporter;
 
 class ErrorHandlerFactory
 {

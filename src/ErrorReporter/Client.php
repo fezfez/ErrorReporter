@@ -16,9 +16,9 @@
  */
 
 
-namespace Corp\ErrorReporter;
+namespace ErrorReporter;
 
-use Corp\ErrorReporter\SenderInterface;
+use ErrorReporter\SenderInterface;
 
 class Client
 {

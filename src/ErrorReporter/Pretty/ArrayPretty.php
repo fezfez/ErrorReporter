@@ -1,5 +1,5 @@
 <?php
-namespace Corp\ErrorReporter\Pretty;
+namespace ErrorReporter\Pretty;
 
 
 class ArrayPretty

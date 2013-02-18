@@ -1,10 +1,10 @@
 <?php
 
-namespace Corp\ErrorReporter\Sender;
+namespace ErrorReporter\Sender;
 
-use Corp\ErrorReporter\SenderInterface;
-use Corp\ErrorReporter\Formater\TextFormater;
-use Corp\ErrorReporter\Formater\HtmlFormater;
+use ErrorReporter\SenderInterface;
+use ErrorReporter\Formater\TextFormater;
+use ErrorReporter\Formater\HtmlFormater;
 
 class MailSender implements SenderInterface
 {
