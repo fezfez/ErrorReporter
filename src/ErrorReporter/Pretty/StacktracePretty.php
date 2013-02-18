@@ -4,7 +4,7 @@
  *
  * @package raven
  */
-namespace Corp\ErrorReporter\Pretty;
+namespace ErrorReporter\Pretty;
 
 use ReflectionMethod;
 
