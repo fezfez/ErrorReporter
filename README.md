@@ -1,3 +1,10 @@
+# Ajout de l'autload Composer
+
+bootstrap.php
+
+     // auloading composer
+    require APPLICATION_PATH . '/../vendor/autoload.php';
+
 # Configuration application.ini
 
     ErrorReporter.options.projectName = "Toto"
