@@ -5,7 +5,7 @@
     "keywords": ["log","logging", "ZF1"],
     "homepage": "https://github.com/fezfez/ErrorReporter",
     "license": "MIT",
-    "version": "0.1beta"
+    "version": "0.1beta",
     "authors": [
         {
             "name": "Demonchaux Stéphane",
