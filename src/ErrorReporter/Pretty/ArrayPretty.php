@@ -44,6 +44,7 @@ class ArrayPretty
             }
             $output .= $tabs . "[" . $key . "] => " . $value . $newline;
         }
+        $output .= substr($tabs, 0, -4) . ')' . $newline;
 
         return $output;
     }
