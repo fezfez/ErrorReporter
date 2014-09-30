@@ -1,5 +1,7 @@
 # Ajout de l'autload Composer
 
+[![Project Status](http://stillmaintained.com/fezfez/ErrorReporter.png)](http://stillmaintained.com/fezfez/ErrorReporter)
+
 bootstrap.php
 
      // auloading composer
